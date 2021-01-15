@@ -33,6 +33,9 @@ printArr($numbers);
 $max =largest($numbers);
 echo "<p>Largest number: $max</p>";
 
+$new = removeDups($numbers);
+printArr($new);
+
 
 ?>
 </body>

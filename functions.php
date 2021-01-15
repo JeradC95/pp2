@@ -15,4 +15,13 @@ function largest($array){
 
 }
 
+function removeDups($array){
+    return array_unique($array);
+}
+
+function distribution($array){
+
+}
+
+
 ?>
